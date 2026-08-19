@@ -40,8 +40,8 @@ QA-инженер с техническим бэкграундом и компл
 - **[Яндекс.Метро](./manual-testing/yandex-metro/README.md)** — тестирование мобильного приложения. Чек-лист, регрессионное тестирование. Найдено 19 багов, 2 блокирующих, 6 критических.
 
 ### 🤖 Автоматизация
-- **[API-тесты (Diplom_2)](https://github.com/TatyanaKovalewa/Diplom_2)** — 20 автотестов на REST Assured для бэкенда.
-- **[UI-тесты (Diplom_3)](https://github.com/TatyanaKovalewa/Diplom_3)** — 15 автотестов на Selenium + Page Object Model.
+- **[API-тесты (Stellar Burgers API Testing)](https://github.com/TatyanaKovalewa/Stellar Burgers API Testing)** — 20 автотестов на REST Assured для бэкенда.
+- **[UI-тесты (Stellar Burgers Test Automation)](https://github.com/TatyanaKovalewa/Stellar Burgers Test Automation)** — 15 автотестов на Selenium + Page Object Model.
 
 ---
 
