@@ -27,7 +27,6 @@ QA-инженер с техническим бэкграундом и компл
 | **Автоматизация (UI)** | Java 11, Selenium WebDriver, JUnit 4, Maven, WebDriverManager, Page Object Model |
 | **Автоматизация (API)** | REST Assured, Jackson, Lombok, Step Objects, Builder |
 | **Отчеты** | Allure |
-| **CI/CD** | GitHub Actions |
 | **Системы контроля версий** | Git |
 | **Дополнительно** | Postman, SQL, DevTools |
 
@@ -42,14 +41,6 @@ QA-инженер с техническим бэкграундом и компл
 ### 🤖 Автоматизация
 - **[API-тесты (Stellar Burgers API Testing)](https://github.com/TatyanaKovalewa/stellar-burgers-api-testing)** — 20 автотестов на REST Assured для бэкенда.
 - **[UI-тесты (Stellar Burgers Test Automation)](https://github.com/TatyanaKovalewa/stellar-burgers-test-automation)** — 15 автотестов на Selenium + Page Object Model.
-
----
-
-## 📈 Мои достижения
-- Написала 35+ автотестов (API + UI) на Java
-- Создала 100+ тест-кейсов и чек-листов для ручного тестирования
-- Нашла 50+ багов в учебных проектах (включая критические)
-- Освоила 4 инструмента автоматизации (Selenium, REST Assured, JUnit, Allure)
 
 ---
 
