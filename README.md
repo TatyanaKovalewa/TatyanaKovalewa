@@ -67,11 +67,11 @@ QA-инженер с техническим бэкграундом и компл
 ## 📂 Портфолио
 
 ### 🧪 Ручное тестирование
-- **[Яндекс.Маршруты](./manual-testing/yandex-marshruty/README.md)** — тестирование веб-приложения. Составлено 100 тестов, найдено 39 багов, 7 блокирующих, 14 критический.
-- **[Яндекс.Метро](./manual-testing/yandex-metro/README.md)** — тестирование мобильного приложения. Чек-лист, регрессионное тестирование. Найдено 19 багов, 2 блокирующих, 6 критических.
+- **[Яндекс.Маршруты](./manual-testing/yandex-marshruty/README.md)** — тестирование веб-приложения. Составлено 105 тестов, найдено 39 багов, 7 блокирующих, 14 критических.
+- **[Яндекс.Метро](./manual-testing/yandex-metro/README.md)** — тестирование мобильного приложения. Чек-лист, регрессионное тестирование. Составлено 76 тестов, найдено 19 багов, 2 блокирующих, 6 критических.
 
 ### 🤖 Автоматизация
-- **[API-тесты (Stellar Burgers API Testing)](https://github.com/TatyanaKovalewa/stellar-burgers-api-testing)** — 20 автотестов на REST Assured для бэкенда.
+- **[API-тесты (Samokat API Autotests)](https://github.com/TatyanaKovalewa/samokat-api-autotests)** — 32 автотеста на REST Assured для бэкенда + Postman-коллекция.
 - **[UI-тесты (Stellar Burgers Test Automation)](https://github.com/TatyanaKovalewa/stellar-burgers-test-automation)** — 15 автотестов на Selenium + Page Object Model.
 
 ---
