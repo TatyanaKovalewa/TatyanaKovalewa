@@ -40,17 +40,16 @@ QA-инженер с техническим бэкграундом и компл
 - **[Яндекс.Метро](./manual-testing/yandex-metro/README.md)** — тестирование мобильного приложения. Чек-лист, регрессионное тестирование. Найдено 19 багов, 2 блокирующих, 6 критических.
 
 ### 🤖 Автоматизация
-- **[API-тесты (Diplom_2)](https://github.com/TatyanaKovalewa/Diplom_2)** — 20 автотестов на REST Assured для бэкенда.
-- **[UI-тесты (Diplom_3)](https://github.com/TatyanaKovalewa/Diplom_3)** — 15 автотестов на Selenium + Page Object Model.
+- **[API-тесты (Stellar Burgers API Testing)](https://github.com/TatyanaKovalewa/stellar-burgers-api-testing)** — 20 автотестов на REST Assured для бэкенда.
+- **[UI-тесты (Stellar Burgers Test Automation)](https://github.com/TatyanaKovalewa/stellar-burgers-test-automation)** — 15 автотестов на Selenium + Page Object Model.
 
 ---
 
 ## 📈 Мои достижения
-• Написала 35+ автотестов (API + UI) на Java
-• Создала 100+ тест-кейсов и чек-листов для ручного тестирования
-• Нашла 50+ багов в учебных проектах (включая критические)
-• Освоила 4 инструмента автоматизации (Selenium, REST Assured, JUnit, Allure)
-• Поддерживаю 2 браузера в автотестах (Chrome + Яндекс)
+- Написала 35+ автотестов (API + UI) на Java
+- Создала 100+ тест-кейсов и чек-листов для ручного тестирования
+- Нашла 50+ багов в учебных проектах (включая критические)
+- Освоила 4 инструмента автоматизации (Selenium, REST Assured, JUnit, Allure)
 
 ---
 
