@@ -28,7 +28,7 @@
 
 ## 🤖 Портфолио: автоматизация
 
-В проектах со ссылкой на отчёт тесты прогоняются в GitHub Actions при каждом пуше, а отчёт публикуется автоматически — его можно открыть прямо в браузере, ничего не запуская.
+Во всех проектах тесты прогоняются в GitHub Actions при каждом пуше, отчёт публикуется автоматически — его можно открыть прямо в браузере, ничего не запуская.
 
 | Проект | Что это | Тестов | Отчёт |
 |--------|---------|-------:|-------|
@@ -37,7 +37,7 @@
 | **[Stellar Burgers UI](https://github.com/TatyanaKovalewa/stellar-burgers-test-automation)** | Selenium + Page Object Model, headless-Chrome и Яндекс.Браузер | 10 | [Allure](https://tatyanakovalewa.github.io/stellar-burgers-test-automation/) |
 | **[Burger unit-тесты](https://github.com/TatyanaKovalewa/burger-junit-mockito-tests)** | JUnit + Mockito, **100% покрытие** класса, планка зафиксирована в сборке | 75 | [JaCoCo](https://tatyanakovalewa.github.io/burger-junit-mockito-tests/) |
 | **[Madagascar](https://github.com/TatyanaKovalewa/madagascar-junit-mockito)** | JUnit + Mockito, моки и параметризованные тесты на иерархии классов | 36 | [JaCoCo](https://tatyanakovalewa.github.io/madagascar-junit-mockito/) |
-| **[Samokat UI](https://github.com/TatyanaKovalewa/samokat-autotests)** | Selenium + Page Object Model, заказ самоката и валидация формы | 7 | — |
+| **[Samokat UI](https://github.com/TatyanaKovalewa/samokat-autotests)** | Selenium + POM, Chrome и Firefox. **Найден дефект:** заказ не оформляется в Chrome, в Firefox проходит | 20 | [Allure](https://tatyanakovalewa.github.io/samokat-autotests/) |
 
 ---
 
