@@ -63,10 +63,10 @@
 
 | ID | Название БР | Приоритет |
 |----|-------------|-----------|
-| [BUG1](./bug-reports/BUG1-login-bez-parolya-504.md) | Ошибка 504 Gateway Timeout при авторизации курьера без пароля | 🔴&nbsp;Критический |
-| [BUG2](./bug-reports/BUG2-udalenie-kuriera-bez-id.md) | Ошибка 404 Not Found при удалении курьера без id | 🟡&nbsp;Средний |
-| [BUG3](./bug-reports/BUG3-prinyatie-zakaza-bez-id.md) | Ошибка 404 Not Found при принятии заказа без id заказа | 🟡&nbsp;Средний |
-| [BUG4](./bug-reports/BUG4-zakaz-ne-oformlyaetsya-v-chrome.md) | Не появляется сообщение «Заказ оформлен» при подтверждении в Chrome | ⚫&nbsp;Блокирующий |
+| [BUG1](./bug-reports/BUG1-login-bez-parolya-504.md) | Ошибка 504 Gateway Timeout через 60 секунд при отправке запроса `POST /api/v1/courier/login` на авторизацию курьера, если не передан пароль | 🔴&nbsp;Критический |
+| [BUG2](./bug-reports/BUG2-udalenie-kuriera-bez-id.md) | Ошибка 404 Not Found при отправке запроса `DELETE /api/v1/courier/{id}` на удаление курьера, если не передан id курьера | 🟡&nbsp;Средний |
+| [BUG3](./bug-reports/BUG3-prinyatie-zakaza-bez-id.md) | Ошибка 404 Not Found при отправке запроса `PUT /api/v1/orders/accept/{id}` на принятие заказа курьером, если не передан id заказа | 🟡&nbsp;Средний |
+| [BUG4](./bug-reports/BUG4-zakaz-ne-oformlyaetsya-v-chrome.md) | Не появляется сообщение «Заказ оформлен» при нажатии кнопки «Да» в окне подтверждения заказа в браузере Chrome | ⚫&nbsp;Блокирующий |
 
 В каждом отчёте — шаги воспроизведения, ожидаемый и фактический результат, контрольные запросы, отвергнутые гипотезы и ссылка на автотест.
 
