@@ -30,6 +30,10 @@
 
 Во всех проектах тесты прогоняются в GitHub Actions при каждом пуше, отчёт публикуется автоматически — его можно открыть прямо в браузере, ничего не запуская.
 
+[![Отчёт Allure](./docs/allure-dashboard.png)](https://tatyanakovalewa.github.io/samokat-api-autotests/)
+
+<sub>Отчёт Allure по API Самоката: 35 тестов, 5 из них зафиксированы как дефекты стенда. Кликабельно — открывается живая версия.</sub>
+
 | Проект | Что это | Тестов | Отчёт |
 |--------|---------|-------:|-------|
 | **[Samokat API](https://github.com/TatyanaKovalewa/samokat-api-autotests)** | REST Assured, курьеры и заказы. **Найдено 5 дефектов API** — разобраны в README | 35 | [Allure](https://tatyanakovalewa.github.io/samokat-api-autotests/) |
