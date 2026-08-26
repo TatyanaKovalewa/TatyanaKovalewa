@@ -66,12 +66,12 @@
 
 ## Автотесты
 
-Репозиторий [samokat-autotests](https://github.com/TatyanaKovalewa/samokat-autotests):
+Репозиторий [samokat-ui-autotests](https://github.com/TatyanaKovalewa/samokat-ui-autotests):
 
 - `OrderTests#positiveOrderFlow` — **падает** (Chrome), оба набора данных
 - `OrderFirefoxTests#positiveOrderFlow` — **проходит** (Firefox), те же данные
 
-Зафиксирован в `.github/known-stand-defects.txt`, виден в [Allure-отчёте](https://tatyanakovalewa.github.io/samokat-autotests/).
+Зафиксирован в `.github/known-stand-defects.txt`, виден в [Allure-отчёте](https://tatyanakovalewa.github.io/samokat-ui-autotests/).
 
 ## Примечание
 
