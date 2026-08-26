@@ -36,12 +36,12 @@
 
 | Проект | Что это | Тестов | Отчёт |
 |--------|---------|-------:|-------|
-| **[Samokat API](https://github.com/TatyanaKovalewa/samokat-api-autotests)** | REST Assured, курьеры и заказы. **Найдено 5 дефектов API** — разобраны в README | 35 | [Allure](https://tatyanakovalewa.github.io/samokat-api-autotests/) |
-| **[Stellar Burgers API](https://github.com/TatyanaKovalewa/stellar-burgers-api-autotests)** | REST Assured, Step Objects: регистрация, авторизация, заказы | 20 | [Allure](https://tatyanakovalewa.github.io/stellar-burgers-api-autotests/) |
-| **[Stellar Burgers UI](https://github.com/TatyanaKovalewa/stellar-burgers-ui-autotests)** | Selenium + Page Object Model, headless-Chrome и Яндекс.Браузер | 10 | [Allure](https://tatyanakovalewa.github.io/stellar-burgers-ui-autotests/) |
-| **[Burger unit-тесты](https://github.com/TatyanaKovalewa/burger-unit-tests)** | JUnit + Mockito, **100% покрытие** класса, планка зафиксирована в сборке | 75 | [JaCoCo](https://tatyanakovalewa.github.io/burger-unit-tests/) |
-| **[Madagascar](https://github.com/TatyanaKovalewa/madagascar-unit-tests)** | JUnit + Mockito, моки и параметризованные тесты на иерархии классов | 36 | [JaCoCo](https://tatyanakovalewa.github.io/madagascar-unit-tests/) |
-| **[Samokat UI](https://github.com/TatyanaKovalewa/samokat-ui-autotests)** | Selenium + POM, Chrome и Firefox. **Найден дефект:** заказ не оформляется в Chrome, в Firefox проходит | 20 | [Allure](https://tatyanakovalewa.github.io/samokat-ui-autotests/) |
+| **[Samokat — API-автотесты](https://github.com/TatyanaKovalewa/samokat-api-autotests)** | REST Assured, курьеры и заказы. **Найдено 5 дефектов API** — разобраны в README | 35 | [Allure](https://tatyanakovalewa.github.io/samokat-api-autotests/) |
+| **[Stellar Burgers — API-автотесты](https://github.com/TatyanaKovalewa/stellar-burgers-api-autotests)** | REST Assured, Step Objects: регистрация, авторизация, заказы | 20 | [Allure](https://tatyanakovalewa.github.io/stellar-burgers-api-autotests/) |
+| **[Stellar Burgers — UI-автотесты](https://github.com/TatyanaKovalewa/stellar-burgers-ui-autotests)** | Selenium + Page Object Model, headless-Chrome и Яндекс.Браузер | 10 | [Allure](https://tatyanakovalewa.github.io/stellar-burgers-ui-autotests/) |
+| **[Burger — unit-тесты](https://github.com/TatyanaKovalewa/burger-unit-tests)** | JUnit + Mockito, **100% покрытие**, планка зафиксирована в сборке | 80 | [JaCoCo](https://tatyanakovalewa.github.io/burger-unit-tests/) |
+| **[Madagascar — unit-тесты](https://github.com/TatyanaKovalewa/madagascar-unit-tests)** | JUnit + Mockito, моки и параметризованные тесты, **100% покрытие** | 40 | [JaCoCo](https://tatyanakovalewa.github.io/madagascar-unit-tests/) |
+| **[Samokat — UI-автотесты](https://github.com/TatyanaKovalewa/samokat-ui-autotests)** | Selenium + POM, Chrome и Firefox. **Найден дефект:** заказ не оформляется в Chrome, в Firefox проходит | 20 | [Allure](https://tatyanakovalewa.github.io/samokat-ui-autotests/) |
 
 ---
 
