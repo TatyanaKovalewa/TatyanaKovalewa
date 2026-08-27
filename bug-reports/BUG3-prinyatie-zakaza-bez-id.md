@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Приоритет** | 🟡 Средний |
+| **Приоритет** | 🟡 Стандартный |
 | **Компонент** | API · Заказы · `PUT /api/v1/orders/accept/:id?courierId=:courierId` |
 | **Окружение** | Учебный стенд `qa-scooter.praktikum-services.ru`, проверено через curl и REST Assured |
 | **Дата проверки** | 26.08.2026 |
